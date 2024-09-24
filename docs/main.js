@@ -16878,6 +16878,7 @@ window.onload=function()
 								if (firstLaunch) Game.showLangSelection(true);
 
 								// cyrillbrito: Load Cookie Monster mod
+								Game.LoadMod('mods/CCSE.js');
 								Game.LoadMod('mods/CookieMonster.js');
                                 				Game.LoadMod('mods/Horticookie.js');
                                 				Game.LoadMod('mods/GoldenCookieClicker.js');
