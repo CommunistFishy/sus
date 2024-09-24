@@ -16879,7 +16879,6 @@ window.onload=function()
 
 								// cyrillbrito: Load Cookie Monster mod
 								Game.LoadMod('mods/CookieMonster.js');
-                                				Game.LoadMod('mods/CCSE.js');
                                 				Game.LoadMod('mods/Horticookie.js');
                                 				Game.LoadMod('mods/GoldenCookieClicker.js');
                                 
